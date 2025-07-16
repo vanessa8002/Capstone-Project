@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -104,7 +103,7 @@ NavMeshSettings:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_BuildSettings:
-    serializedVersion: 2
+    serializedVersion: 3
     agentTypeID: 0
     agentRadius: 0.5
     agentHeight: 2
@@ -117,16 +116,12 @@ NavMeshSettings:
     cellSize: 0.16666667
     manualTileSize: 0
     tileSize: 256
-    accuratePlacement: 0
+    buildHeightMesh: 0
     maxJobWorkers: 0
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< Updated upstream
-<<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
---- !u!1 &625736989
-========
 --- !u!1001 &1311853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -196,10 +191,6 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82d538ac290ee5d4cbee1e021a136553, type: 3}
 --- !u!1 &22849940
->>>>>>>> Stashed changes:Assets/[Scenes]/Dani.unity
-=======
---- !u!1 &625736989
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -207,9 +198,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 625736992}
-  - component: {fileID: 625736991}
-  - component: {fileID: 625736990}
+  - component: {fileID: 22849943}
+  - component: {fileID: 22849942}
+  - component: {fileID: 22849941}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -217,21 +208,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &625736990
+--- !u!81 &22849941
 AudioListener:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 625736989}
+  m_GameObject: {fileID: 22849940}
   m_Enabled: 1
---- !u!20 &625736991
+--- !u!20 &22849942
 Camera:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 625736989}
+  m_GameObject: {fileID: 22849940}
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
@@ -239,9 +230,17 @@ Camera:
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -268,24 +267,21 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!4 &625736992
+--- !u!4 &22849943
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 625736989}
+  m_GameObject: {fileID: 22849940}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-<<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
---- !u!1 &1668768276
-========
 --- !u!1001 &102144301
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -428,9 +424,6 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df1c59486edbb164993afb23835953e5, type: 3}
 --- !u!1 &217936704
-=======
---- !u!1 &1668768276
->>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -438,7 +431,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
   - component: {fileID: 217936708}
   - component: {fileID: 217936707}
   - component: {fileID: 217936706}
@@ -536,7 +528,6 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &404138375
->>>>>>>> Stashed changes:Assets/[Scenes]/Dani.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -544,18 +535,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
-  - component: {fileID: 1668768278}
-  - component: {fileID: 1668768277}
-========
   - component: {fileID: 404138377}
   - component: {fileID: 404138376}
   - component: {fileID: 404138378}
->>>>>>>> Stashed changes:Assets/[Scenes]/Dani.unity
-=======
-  - component: {fileID: 1668768278}
-  - component: {fileID: 1668768277}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -563,13 +545,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!108 &1668768277
+--- !u!108 &404138376
 Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1668768276}
+  m_GameObject: {fileID: 404138375}
   m_Enabled: 1
   serializedVersion: 10
   m_Type: 1
@@ -625,83 +607,21 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!4 &1668768278
+--- !u!4 &404138377
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1668768276}
+  m_GameObject: {fileID: 404138375}
+  serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
-<<<<<<< Updated upstream
-<<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
-=======
->>>>>>> Stashed changes
---- !u!1001 &2807239360022892186
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 146170618179543852, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 670083942048643478, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-      propertyPath: m_Name
-      value: Farm_Ranch_Pack_1.0.0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
-<<<<<<< Updated upstream
-========
 --- !u!114 &404138378
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1992,6 +1912,3 @@ SceneRoots:
   - {fileID: 1692630344}
   - {fileID: 2008006032}
   - {fileID: 1854686352}
->>>>>>>> Stashed changes:Assets/[Scenes]/Dani.unity
-=======
->>>>>>> Stashed changes
