@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
 --- !u!1 &625736989
 ========
@@ -197,6 +198,9 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 82d538ac290ee5d4cbee1e021a136553, type: 3}
 --- !u!1 &22849940
 >>>>>>>> Stashed changes:Assets/[Scenes]/Dani.unity
+=======
+--- !u!1 &625736989
+>>>>>>> Stashed changes
 =======
 --- !u!1 &625736989
 >>>>>>> Stashed changes
@@ -282,6 +286,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
 --- !u!1 &1668768276
@@ -431,6 +436,9 @@ PrefabInstance:
 =======
 --- !u!1 &1668768276
 >>>>>>> Stashed changes
+=======
+--- !u!1 &1668768276
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -438,6 +446,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   - component: {fileID: 217936708}
   - component: {fileID: 217936707}
@@ -556,6 +565,10 @@ GameObject:
   - component: {fileID: 1668768278}
   - component: {fileID: 1668768277}
 >>>>>>> Stashed changes
+=======
+  - component: {fileID: 1668768278}
+  - component: {fileID: 1668768277}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -640,7 +653,10 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Pandazole_Ultimate_Pack/Pandazole Farm Ranch Pack/Scenes/Demo.unity
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 --- !u!1001 &2807239360022892186
@@ -700,6 +716,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7450e0b0341b3c0489e4f82576828dd1, type: 3}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 ========
 --- !u!114 &404138378
@@ -1993,5 +2010,7 @@ SceneRoots:
   - {fileID: 2008006032}
   - {fileID: 1854686352}
 >>>>>>>> Stashed changes:Assets/[Scenes]/Dani.unity
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
