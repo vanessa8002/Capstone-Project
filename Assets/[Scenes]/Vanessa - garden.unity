@@ -5407,7 +5407,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 19691f6aa755db9428322cf11b5b1ad4, type: 3}
       propertyPath: m_Name
-      value: Fence_01
+      value: Fence_01-
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 19691f6aa755db9428322cf11b5b1ad4, type: 3}
       propertyPath: m_LocalPosition.x
