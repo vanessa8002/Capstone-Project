@@ -14,5 +14,8 @@ EditorBuildSettings:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3e227714e35891e4ca9bc3be88f678c7,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 96d85ea858b9d403995b376c129ac2af,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       type: 2}

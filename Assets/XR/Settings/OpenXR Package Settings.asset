@@ -1,6 +1,7 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &-8600503680135647019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -167,6 +168,9 @@ MonoBehaviour:
 =======
 --- !u!114 &-8842281208178128869
 >>>>>>> Stashed changes
+=======
+--- !u!114 &-8842281208178128869
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -187,7 +191,11 @@ MonoBehaviour:
   priority: 0
   required: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &-2916162118604568586
+=======
+--- !u!114 &-7129846393588390963
+>>>>>>> Stashed changes
 =======
 --- !u!114 &-7129846393588390963
 >>>>>>> Stashed changes
@@ -199,6 +207,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: 056125dd64c0ed540b40a4af74f7b495, type: 3}
   m_Name: RuntimeDebuggerOpenXRFeature Android
@@ -235,6 +244,8 @@ MonoBehaviour:
   required: 0
 --- !u!114 &-2493984861090413193
 =======
+=======
+>>>>>>> Stashed changes
   m_Script: {fileID: 11500000, guid: e5315f812f023cf4ebf26f7e5d2d70f2, type: 3}
   m_Name: HPReverbG2ControllerProfile Standalone
   m_EditorClassIdentifier: 
@@ -247,6 +258,9 @@ MonoBehaviour:
   priority: 0
   required: 0
 --- !u!114 &-6808902686579711040
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -257,6 +271,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_Name: Standalone
   m_EditorClassIdentifier: 
@@ -279,6 +294,8 @@ MonoBehaviour:
   - {fileID: -696163155861773977}
   - {fileID: 4353727180691420644}
 =======
+=======
+>>>>>>> Stashed changes
   m_Name: Android
   m_EditorClassIdentifier: 
   features:
@@ -297,11 +314,15 @@ MonoBehaviour:
   - {fileID: 1227087796958458416}
   - {fileID: -4001653245500862009}
   - {fileID: 59536666172000208}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_renderMode: 1
   m_depthSubmissionMode: 0
   m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!114 &-974152620464422878
 MonoBehaviour:
@@ -383,6 +404,9 @@ MonoBehaviour:
 =======
 --- !u!114 &-6531680697858921576
 >>>>>>> Stashed changes
+=======
+--- !u!114 &-6531680697858921576
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -403,8 +427,11 @@ MonoBehaviour:
   priority: 0
   required: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &1058271358068782668
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &-5765702377519284062
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -589,6 +616,9 @@ MonoBehaviour:
   cacheSize: 1048576
   perThreadCacheSize: 51200
 --- !u!114 &-3702936272706134289
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -623,7 +653,11 @@ MonoBehaviour:
   - XR_KHR_binding_modification
   - XR_EXT_dpad_binding
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &1137070275375975273
+=======
+--- !u!114 &-3662126532668213935
+>>>>>>> Stashed changes
 =======
 --- !u!114 &-3662126532668213935
 >>>>>>> Stashed changes
@@ -635,6 +669,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: 7de993716e042c6499d0c18eed3a773c, type: 3}
   m_Name: MockRuntime Android
@@ -650,6 +685,8 @@ MonoBehaviour:
   ignoreValidationErrors: 0
 --- !u!114 &1648412930233481748
 =======
+=======
+>>>>>>> Stashed changes
   m_Script: {fileID: 11500000, guid: 5019471fb2174e5c852ecd4047163007, type: 3}
   m_Name: HandInteractionProfile Android
   m_EditorClassIdentifier: 
@@ -874,6 +911,9 @@ MonoBehaviour:
   targetQuest: 1
   targetQuest2: 1
 --- !u!114 &540933194671682248
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -888,17 +928,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_enabled: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   nameUi: 
   version: 
   featureIdInternal: 
   openxrExtensionStrings: 
   company: 
 =======
+=======
+>>>>>>> Stashed changes
   nameUi: D-Pad Binding
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.dpadinteraction
   openxrExtensionStrings: XR_KHR_binding_modification XR_EXT_dpad_binding
   company: Unity
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   priority: 0
   required: 0
@@ -916,8 +962,11 @@ MonoBehaviour:
   - XR_KHR_binding_modification
   - XR_EXT_dpad_binding
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &2320765780493221800
 =======
+=======
+>>>>>>> Stashed changes
 --- !u!114 &1227087796958458416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1040,6 +1089,9 @@ MonoBehaviour:
   priority: 0
   required: 0
 --- !u!114 &7361943139920584646
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1062,6 +1114,7 @@ MonoBehaviour:
   required: 0
   cacheSize: 1048576
   perThreadCacheSize: 51200
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!114 &2777084486932524509
 MonoBehaviour:
@@ -1287,6 +1340,9 @@ MonoBehaviour:
 =======
 --- !u!114 &7459422214649009773
 >>>>>>> Stashed changes
+=======
+--- !u!114 &7459422214649009773
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1307,7 +1363,11 @@ MonoBehaviour:
   priority: 0
   required: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!114 &7127543512158926775
+=======
+--- !u!114 &8312014858167693195
+>>>>>>> Stashed changes
 =======
 --- !u!114 &8312014858167693195
 >>>>>>> Stashed changes
@@ -1319,6 +1379,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: b3cf79659a011bd419c7a2a30eb74e9a, type: 3}
   m_Name: EyeGazeInteraction Android
@@ -1354,6 +1415,8 @@ MonoBehaviour:
   ignoreValidationErrors: 0
 --- !u!114 &8068706932006141144
 =======
+=======
+>>>>>>> Stashed changes
   m_Script: {fileID: 11500000, guid: 486b5e28864f9a94b979b9620ce5006d, type: 3}
   m_Name: ConformanceAutomationFeature Android
   m_EditorClassIdentifier: 
@@ -1366,6 +1429,9 @@ MonoBehaviour:
   priority: 0
   required: 0
 --- !u!114 &8820654123816765326
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1376,6 +1442,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: Android
   m_EditorClassIdentifier: 
@@ -1385,6 +1452,8 @@ MonoBehaviour:
   m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
 =======
+=======
+>>>>>>> Stashed changes
   m_Script: {fileID: 11500000, guid: 2a24be4b5ebfe5f4d8ed1de9b25cb7aa, type: 3}
   m_Name: HandCommonPosesInteraction Android
   m_EditorClassIdentifier: 
@@ -1396,4 +1465,7 @@ MonoBehaviour:
   company: Unity
   priority: 0
   required: 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
